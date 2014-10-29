@@ -1,0 +1,2 @@
+Postit whiteboard with websockets and java EE.
+Give new clients all updated information from server..
